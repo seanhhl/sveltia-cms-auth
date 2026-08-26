@@ -1,5 +1,5 @@
 # Sveltia CMS Authenticator
- 
+
 This simple [Cloudflare Workers](https://workers.cloudflare.com/) script allows [Sveltia CMS](https://sveltiacms.app/en/) users to authenticate with [GitHub](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps).
 
 <!-- prettier-ignore-start -->
